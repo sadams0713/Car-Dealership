@@ -28,7 +28,7 @@ namespace CarDealershipAPI.Controllers.Models
             }
             else 
             {
-                Car badId = new Car() { Make = "This is not a valid id." };
+                Car badId = new Car() { Make = "That is not a valid ID." };
                 return badId;
             }
         }
@@ -44,8 +44,8 @@ namespace CarDealershipAPI.Controllers.Models
             }
             else
             {
-                List<Car> badMake = new List<Car>() { new Car() { Make = "We do not have this make." } };
-                return badMake;
+                List<Car> noMake = new List<Car>() { new Car() { Make = "Sorry we don't carry this make." } };
+                return noMake;
             }
         }
 
@@ -60,8 +60,8 @@ namespace CarDealershipAPI.Controllers.Models
             }
             else
             {
-                List<Car> badModel = new List<Car>() { new Car() { Make = "We do not have this model." } };
-                return badModel;
+                List<Car> noModel = new List<Car>() { new Car() { Make = "Sorry none of our cars match that model." } };
+                return noModel;
             }
         }
 
@@ -76,8 +76,8 @@ namespace CarDealershipAPI.Controllers.Models
             }
             else
             {
-                List<Car> badYear = new List<Car>() { new Car() { Make = "We do not have any cars from that year." } };
-                return badYear;
+                List<Car> noYear = new List<Car>() { new Car() { Make = "Sorry we don't have any cars from that year." } };
+                return noYear;
             }
         }
 
@@ -92,8 +92,8 @@ namespace CarDealershipAPI.Controllers.Models
             }
             else
             {
-                List<Car> badColor = new List<Car>() { new Car() { Make = "We do not have any cars with that color." } };
-                return badColor;
+                List<Car> noColor = new List<Car>() { new Car() { Make = "Sorry we don't have that color." } };
+                return noColor;
             }
         }
 

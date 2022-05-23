@@ -2063,11 +2063,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sadams\\source\\repos\\CarDealershipAPI\\CarDealershipAPI\\CarDealershipAPI.csproj",
+      "projectUniqueName": "C:\\Users\\sadams\\Desktop\\Grand_Circus\\Unit 7\\CarDealershipAPI\\CarDealershipAPI\\CarDealershipAPI.csproj",
       "projectName": "CarDealershipAPI",
-      "projectPath": "C:\\Users\\sadams\\source\\repos\\CarDealershipAPI\\CarDealershipAPI\\CarDealershipAPI.csproj",
+      "projectPath": "C:\\Users\\sadams\\Desktop\\Grand_Circus\\Unit 7\\CarDealershipAPI\\CarDealershipAPI\\CarDealershipAPI.csproj",
       "packagesPath": "C:\\Users\\sadams\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sadams\\source\\repos\\CarDealershipAPI\\CarDealershipAPI\\obj\\",
+      "outputPath": "C:\\Users\\sadams\\Desktop\\Grand_Circus\\Unit 7\\CarDealershipAPI\\CarDealershipAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

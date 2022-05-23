@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AU7L2lFBDtQkuKrqWxb6wqd0sOC35y5vZlRF0TG+l9Q=",
+  "Source": "CarDealershipAPI",
+  "BasePath": "_content/CarDealershipAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
