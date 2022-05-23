@@ -1,0 +1,7 @@
+C:\Users\sadams\source\repos\CarDealershipAPI\CarDealershipAPI\obj\Debug\net6.0\CarDealershipAPI.csproj.AssemblyReference.cache
+C:\Users\sadams\source\repos\CarDealershipAPI\CarDealershipAPI\obj\Debug\net6.0\CarDealershipAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadams\source\repos\CarDealershipAPI\CarDealershipAPI\obj\Debug\net6.0\CarDealershipAPI.AssemblyInfoInputs.cache
+C:\Users\sadams\source\repos\CarDealershipAPI\CarDealershipAPI\obj\Debug\net6.0\CarDealershipAPI.AssemblyInfo.cs
+C:\Users\sadams\source\repos\CarDealershipAPI\CarDealershipAPI\obj\Debug\net6.0\CarDealershipAPI.csproj.CoreCompileInputs.cache
+C:\Users\sadams\source\repos\CarDealershipAPI\CarDealershipAPI\obj\Debug\net6.0\CarDealershipAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sadams\source\repos\CarDealershipAPI\CarDealershipAPI\obj\Debug\net6.0\CarDealershipAPI.MvcApplicationPartsAssemblyInfo.cache
